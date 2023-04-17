@@ -5,7 +5,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      'login-fondo': '#0E1B21',
+    },
   },
   plugins: [],
 }

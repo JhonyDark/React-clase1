@@ -8,11 +8,8 @@ import './App.scss'
 function App() {
 
   return (
-    <div className="App">
-      <Header />
+    <div className="w-full h-full ">
       <Login />
-      <Home />
-      <Footer />
     </div>
   )
 }
